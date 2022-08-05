@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**m-zoerner/m-zoerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on radar image processing and running climate models.
 - 🌱 I’m currently learning machine learning techniques. 
