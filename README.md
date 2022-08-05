@@ -1,6 +1,5 @@
 ### Hi there 👋
 
--->
 
 - 🔭 I’m currently working on radar image processing and running climate models.
 - 🌱 I’m currently learning machine learning techniques. 
@@ -11,4 +10,3 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm a plant mom of 20, and looking to "grow" my collection :wink:
 
--->
