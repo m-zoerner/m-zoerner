@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-![](https://en.wikipedia.org/wiki/Tornado)
 - 🔭 I’m currently working on: radar image processing and running climate models.
 - 🌱 I’m currently learning: machine learning techniques. 
 - 👯 I’m looking to collaborate on: machine learning, data visualization, web design. 
