@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help working with: large, high-dimensional data sets.
 - 📫 How to reach me: maggiezoerner@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm a plant mom of 20, and looking to "grow" my collection :wink:
+- ⚡ Fun fact: I'm a plant mom of 20, and looking to "grow" my collection. 😉 🪴
 
